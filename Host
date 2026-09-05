@@ -138,6 +138,12 @@
     "mega_domains": ["mega.nz"]
   },
 {
+    "pckg_id": "com.alrighttv",
+    "base_domain": "alright.app",
+    "home_url": "https://short.elitemods.in/",
+    "mega_domains": ["mega.nz"]
+  },
+{
     "pckg_id": "com.wowtv",
     "base_domain": "wowtv.app",
     "home_url": "https://wowtv.app/",
