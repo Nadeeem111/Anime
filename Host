@@ -138,6 +138,12 @@
     "mega_domains": ["mega.nz"]
   },
 {
+    "pckg_id": "com.animeworld",
+    "base_domain": "watchanimeworld.one",
+    "home_url": "https://watchanimeworld.one/",
+    "mega_domains": ["mega.nz"]
+  },
+{
     "pckg_id": "com.alrighttv",
     "base_domain": "alright.app",
     "home_url": "https://short.elitemods.in/",
