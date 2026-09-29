@@ -12,6 +12,12 @@
     "mega_domains": ["mega.nz", "mega.io"]
   },
 {
+    "pckg_id": "com.nxsha",
+    "base_domain": "nxsha.space",
+    "home_url": "https://nxsha.space",
+    "mega_domains": ["mega.nz", "mega.io"]
+  },
+{
     "pckg_id": "com.cinefy",
     "base_domain": "cinefy.lol",
     "home_url": "https://cinefy.lol",
