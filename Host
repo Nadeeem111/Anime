@@ -156,9 +156,9 @@
     "mega_domains": ["mega.nz"]
   },
 {
-    "pckg_id": "com.wowtv",
-    "base_domain": "wowtv.app",
-    "home_url": "https://wowtv.app/",
+    "pckg_id": "com.hicine",
+    "base_domain": "hicine.biz",
+    "home_url": "https://hicine.biz/",
     "mega_domains": ["mega.nz"]
   }
   
